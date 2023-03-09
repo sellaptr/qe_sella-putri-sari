@@ -2,9 +2,9 @@ import java.util.Scanner;
 public class HasilPenjualan {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Masukkan sebuah Harga Beli: ");
+        System.out.print("Masukkan Harga Beli: ");
         int hargaBeli = scanner.nextInt();
-        System.out.print("Masukkan sebuah Harga Jual: ");
+        System.out.print("Masukkan Harga Jual: ");
         int hargaJual = scanner.nextInt();
 
 //        menghitung laba atau rugi
