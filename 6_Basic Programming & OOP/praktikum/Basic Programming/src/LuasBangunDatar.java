@@ -9,8 +9,7 @@ public class LuasBangunDatar {
         System.out.print("Luas segitiga adalah :");
         System.out.println(hasilSegitiga);
 
-
-        // persegi panjang
+        // menghitung luas persegi panjang
         float panjang = 40;
         float lebar = 6;
         int hasilPersegi = (int) (panjang * lebar);
@@ -19,8 +18,7 @@ public class LuasBangunDatar {
         System.out.print("Luas persegi panjang adalah :");
         System.out.println(hasilPersegi);
 
-
-        // lingkaran
+        // luas lingkaran
         double jari2 = 7;
         float phi = 3.14f;
         float hasilLingkaran = (float) (phi * jari2 *jari2);
