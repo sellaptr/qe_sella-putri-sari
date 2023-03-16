@@ -1,7 +1,7 @@
 <h2>Penjelasan kode & hasil</h2>
 
 <b>No.1</b>
-
+![Kode No 1](https://user-images.githubusercontent.com/74763171/225586040-96728920-cf68-477d-8157-f08bb084e30a.JPG)
 <p>No.1 merupakan program Java yang digunakan untuk menggabungkan dua buah array string dan menyaring elemen yang sama sehingga hanya menampilkan elemen yang unik.</p>
 
 <p>Pada baris 4-6, dibuat dua buah array string sebagai contoh kasus uji program. Kemudian, pada baris 9, dilakukan pemanggilan fungsi mergeArrays yang akan menggabungkan dua buah array arr1 dan arr2 dan menyaring elemen yang sama. Hasil penggabungan dan penyaringan kemudian dicetak pada baris 12 menggunakan fungsi Arrays.toString().</p>
