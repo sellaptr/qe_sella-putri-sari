@@ -8,19 +8,19 @@ Link Test case google sheet : https://docs.google.com/spreadsheets/d/1BT2DZGx-3_
 <b>Soal Prioritas 2</b></br>
 
 Case Positive : </br>
-
+![Case Positive prioritas 2](https://user-images.githubusercontent.com/74763171/227704674-2839e81a-9407-4075-838a-20e5ab26682f.JPG)
 
 </br>
 Case Negative :</br>
+![Case Negative prioritas 2](https://user-images.githubusercontent.com/74763171/227704697-f3dfa5c8-4883-479d-a3fa-7c94e30afdf7.JPG)
 
 
 </br>
 <b>Soal Explorasi</b></br>
+![get data id explorasi](https://user-images.githubusercontent.com/74763171/227704749-0b904d62-2edd-4f62-b1e7-410627eaefb3.JPG)
 
-
-
-
-
+</b>
+</b>
 <b>| No | Endpoint | Method | Deskripsi |</b>
 | --- | --- | --- | --- |
 <b>| 1 | https://jsonplaceholder.typicode.com/posts   | GET | Mendapatkan semua data post. |</b></br>
