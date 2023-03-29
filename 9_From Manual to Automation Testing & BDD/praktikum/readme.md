@@ -36,81 +36,81 @@ c. Gatling: tool open-source yang dapat digunakan untuk melakukan load testing p
 
 1. Soal Prioritas 1
 Hasil:
-![path](screenshoots/prioritas 1.jpg)
+![prioritas 1](https://user-images.githubusercontent.com/74763171/228563101-98d15d0f-ce89-41fb-98de-60574355b204.JPG)
+
 </br>
 </br>
 2. Soal Prioritas 2
 Hasil: 
-
-![path](screenshoots/prioritas 2.jpg) 
+![prioritas 2](https://user-images.githubusercontent.com/74763171/228563248-dc23d926-4ab3-4d6a-b05b-ba7c3830dc4b.JPG)
 
 </br>
 </br>
 3. Soal Eksplorasi
 <ul>
 <li>Kode cypress login case:</li>
+![cypress login case](https://user-images.githubusercontent.com/74763171/228563424-b70d3d77-aa02-46a8-b67f-1de05e139f5a.JPG)
 
-![path](screenshoots/cypress login case.jpg)
 </br>
 </br>
 
 <li>Kode cypress login js:</li>
+![cypress loginjs](https://user-images.githubusercontent.com/74763171/228563586-1dadac5e-27a9-4892-b9be-994721c7cd1a.JPG)
 
-![path](screenshoots/cypress loginjs.jpg)
 </br>
 </br>
 
 <li>Hasil cypress login feature:</li>
+![cypress login feature](https://user-images.githubusercontent.com/74763171/228563741-b285a43a-c340-44f9-9e59-28d44b1b497a.JPG)
 
-![path](screenshoots/cypress login feature.jpg)
 </br>
 </br>
 
 <li>Kode cypress payment case:</li>
+![cypress payment case](https://user-images.githubusercontent.com/74763171/228563892-73f097df-e3d9-4e91-9e9c-af32ae409c14.JPG)
 
-![path](screenshoots/cypress payment case.jpg)
 </br>
 </br>
 
 <li>Kode cypress payment js:</li>
+![cypress paymenjs](https://user-images.githubusercontent.com/74763171/228564024-ea671dfe-0908-48fc-8903-f656891f8d22.JPG)
 
-![path](screenshoots/cypress paymenjs.jpg)
 </br>
 </br>
 
 <li>Hasil cypress payment feature:</li>
+![cypress payment feature](https://user-images.githubusercontent.com/74763171/228564306-ef35ca63-83bd-45e1-a95d-b038bc638da9.JPG)
 
-![path](screenshoots/cypress payment feature.jpg)
 </br>
 </br>
 
 <li>Kode cypress product case:</li>
+![cypress product case](https://user-images.githubusercontent.com/74763171/228564432-767f3ca0-66a8-4da4-b1b1-98467f350bae.JPG)
 
-![path](screenshoots/cypress product case.jpg)
 </br>
 </br>
 
 <li>Kode cypress product js:</li>
+![cypress productjs](https://user-images.githubusercontent.com/74763171/228564592-0bbb6682-8d4b-49cd-9359-767d71ce4f07.JPG)
 
-![path](screenshoots/cypress productjs.jpg)
 </br>
 </br>
 
 <li>Hasil cypress product feature:</li>
+![cypress product feature](https://user-images.githubusercontent.com/74763171/228564763-28b6c7e3-f1e0-4924-8615-21710ddd7a83.JPG)
 
-![path](screenshoots/cypress product feature.jpg)
 </br>
 </br>
 
 <li>Hasil cypress response terminal :</li>
+![cypress response terminal](https://user-images.githubusercontent.com/74763171/228564902-da03d819-e5a5-47cc-aa12-243ad174cd52.JPG)
 
-![path](screenshoots/cypress response terminal.jpg)
 </br>
 </br>
 
 <li>Hasil cypress all feature :</li>
+![cypress all feature](https://user-images.githubusercontent.com/74763171/228565157-4e3680ec-7e77-4c3c-bed1-50ce03f59de3.JPG)
 
-![path](screenshoots/cypress all feature.jpg)
 </br>
 </br>
 </ul>
