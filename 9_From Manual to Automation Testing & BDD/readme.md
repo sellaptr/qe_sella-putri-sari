@@ -4,6 +4,13 @@ Manual Testing pada test case nya diexsekusi oleh seorang software tester. Tujua
 
 
 
-
 <h2>(9) Behaviour Driven Development (BDD)</h2>
 
+Behavior Driven Development (BDD)
+Behavior Driven Development (BDD) adalah suatu pendekatan dalam pengembangan perangkat lunak yang berfokus pada pemahaman dan spesifikasi perilaku 
+atau behavior dari suatu sistem. BDD menggabungkan konsep dari Test Driven Development (TDD) dan Domain Driven Design (DDD) untuk memastikan bahwa 
+perangkat lunak yang dibuat memenuhi kebutuhan bisnis dan pengguna. Format BDD meliputi user story, AS a [x] i want [y] so that [z], scenario dan Give When Then. BDD with Cucumber adalah salah satu implementasi dari pendekatan Behavior Driven Development (BDD) dengan menggunakan alat uji Cucumber. 
+Cucumber adalah alat uji fungsional yang membantu dalam membangun dan menjalankan pengujian BDD secara otomatis.
+Dalam BDD with Cucumber, penggunaan bahasa yang mudah dipahami oleh manusia, seperti bahasa Inggris, digunakan untuk menulis skenario pengujian.
+Dalam BDD with Cucumber, penggunaan bahasa yang mudah dipahami oleh manusia, seperti bahasa Inggris, digunakan untuk menulis skenario pengujian. 
+Skenario pengujian ini ditulis dalam format yang disebut Gherkin.

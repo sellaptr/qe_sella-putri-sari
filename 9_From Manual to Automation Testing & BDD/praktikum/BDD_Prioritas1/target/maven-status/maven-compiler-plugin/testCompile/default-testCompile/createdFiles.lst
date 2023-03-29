@@ -1,0 +1,9 @@
+starter\stepDefinitions\homeMenuSteps.class
+starter\HomeMenu\myNetwork.class
+starter\HomeMenu\postContent.class
+starter\stepDefinitions\sendMessageSteps.class
+starter\CucumberTestSuite.class
+starter\HomeMenu\homeMenu.class
+starter\stepDefinitions\postContentSteps.class
+starter\stepDefinitions\myNetworkSteps.class
+starter\HomeMenu\sendMessage.class
