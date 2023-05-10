@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enormous Cotton Computer  Ut necessitat_ae414e</name>
+   <tag></tag>
+   <elementGuidId>54ed14c7-98c3-4081-a41e-772e59003f3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#12887</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='12887']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>da35fc4e-4158-4e7a-a4e7-9f5a4e025ab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>12887</value>
+      <webElementGuid>d130f223-a234-42da-8722-cb5fded3711b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-4 col-lg-3 col-6</value>
+      <webElementGuid>0b04d427-0551-48d0-944b-585d5bfaae68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Enormous Cotton Computer  Ut necessitatibus vitae iure dolores repellendus similique.   4  Rp 91DetailBeli</value>
+      <webElementGuid>a8affbf1-3fb0-42e0-961f-a34bc73cde62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;12887&quot;)</value>
+      <webElementGuid>1bfbf4f6-4128-4d9a-8b53-f17c1c324344</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='12887']</value>
+      <webElementGuid>9bcd1aaa-b128-4702-a64e-2b955878a869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[2]/div/div</value>
+      <webElementGuid>0c11d576-4ae5-40e6-a4e2-48f6cc0f4d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select category ...'])[1]/following::div[12]</value>
+      <webElementGuid>6b8a584e-f0f2-4392-949d-d4e703f2fa7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AltaShop'])[1]/following::div[20]</value>
+      <webElementGuid>ba74a978-469f-4880-9d6d-0b3ac7563a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div</value>
+      <webElementGuid>adbd3b0e-fa0e-4b71-b97a-4d7aa5b6f6dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '12887' and (text() = ' Enormous Cotton Computer  Ut necessitatibus vitae iure dolores repellendus similique.   4  Rp 91DetailBeli' or . = ' Enormous Cotton Computer  Ut necessitatibus vitae iure dolores repellendus similique.   4  Rp 91DetailBeli')]</value>
+      <webElementGuid>45f81206-2604-409c-b5be-e4a0bf038f05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
